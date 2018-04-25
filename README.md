@@ -1,3 +1,5 @@
 # Homework-6
 
-#This is updated readme file
+CHRIS JOSEPH
+csj160130
+csj160130@utdallas.edu
